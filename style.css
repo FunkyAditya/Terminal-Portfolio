@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+span {
+    color: rgb(0, 255, 0);
+}
+
+input {
+    color: white;
+    background-color: black;
+    border: none;
+    outline: none;
+}
